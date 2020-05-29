@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "license": "UNLICENSED",
+  "name": "@mindpoweredlogic/persistence",
+	"version": "0.0.9",
+	"description": "persistence",
+  "main": "persistence.js"
+}
