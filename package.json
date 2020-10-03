@@ -1,8 +1,10 @@
 {
-  "private": true,
-  "license": "UNLICENSED",
-  "name": "@mindpoweredlogic/persistence",
-	"version": "0.0.9",
-	"description": "persistence",
-  "main": "persistence.js"
+    "license": "CPAL-1.0",
+    "name": "@mindpowered/persistence",
+    "version": "0.0.10",
+    "description": "Persistence",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
 }
