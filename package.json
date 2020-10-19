@@ -1,7 +1,7 @@
 {
     "license": "CPAL-1.0",
     "name": "@mindpowered/persistence",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "description": "Persistence",
     "main": "index.js",
     "dependencies": {
