@@ -18,7 +18,11 @@ npm
 Third-party dependencies may have additional requirements.
 
 # Installation
-npm install ...
+You can retrieve the persistence package using npm https://www.npmjs.com/. After initializing your packages.json file in your project’s directory with `npm init`, you can install the persistence package with
+```
+npm i @mindpowered/persistence --save
+```
+hint: the `--save` option will add the newly installed dependency in your packages.json file. 
 
 
 # Licensing
