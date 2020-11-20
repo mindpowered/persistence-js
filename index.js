@@ -1,4 +1,4 @@
 module.exports = Object.assign(
-    require('./lib/persistence.js.js'),
+    require('./lib/persistence.js'),
     require('./wrappers/index.js'),
 );
