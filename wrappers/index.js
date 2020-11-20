@@ -1,1 +1,1 @@
-import { Persistence } from 'Persistence'
+module.exports.Persistence = require('./Persistence.js');
